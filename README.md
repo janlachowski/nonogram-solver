@@ -52,7 +52,7 @@ The solution is written to `zad_output.txt`. Each line represents one row of the
 - `#` → filled cell
 - `.` → empty cell
 
-📝 **Example output:**
+**Example output:**
 ```
 #####
 #.#.#
@@ -79,5 +79,4 @@ A solution (if found) will be written to `zad_output.txt`.
 
 ## Want to Try Solving Yourself?
 
-You can play interactive nonograms online here! 
-[https://www.puzzle-nonograms.com/](https://www.puzzle-nonograms.com/)
+You can play interactive nonograms online [here](https://www.puzzle-nonograms.com/)!
